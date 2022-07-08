@@ -1,0 +1,5 @@
+db/dbdata
+/__pychache__
+src/myapp/__pycache__/settings.cpython-39.pyc
+src/myapp/__pycache__/__init__.cpython-39.pyc
+src/static/admin
